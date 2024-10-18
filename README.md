@@ -1,3 +1,3 @@
-# 内蒙古联通/电信/移动IPTV组播源
-
-
+# 内蒙古联通IPTV组播源
+# 订阅地址：
+https://raw.githubusercontent.com/Jennie567/NMGTV/main/Unicom.m3u

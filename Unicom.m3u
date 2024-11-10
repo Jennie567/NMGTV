@@ -97,8 +97,6 @@ udp://239.125.1.73:4120
 udp://239.125.1.69:4120
 #EXTINF:0 CUID="181" tvg-name="呼和浩特新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼和浩特新闻综合.png" group-title="本地频道",呼和浩特新闻综合
 udp://239.125.2.172:4161
-#EXTINF:0 CUID="182" tvg-name="呼和浩特都市生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼和浩特都市生活.png" group-title="本地频道",呼和浩特都市生活
-udp://239.125.2.171:4160
 #EXTINF:0 CUID="183" tvg-name="呼和浩特影视娱乐" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼和浩特影视娱乐.png" group-title="本地频道",呼和浩特影视娱乐
 udp://239.125.2.175:4164
 #EXTINF:0 CUID="184" tvg-name="呼伦贝尔生活资讯" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古呼伦贝尔生活资讯.png" group-title="本地频道",呼伦贝尔生活资讯
@@ -113,14 +111,12 @@ udp://239.125.2.154:4143
 udp://239.125.2.155:4144
 #EXTINF:0 CUID="189" tvg-name="赤峰新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古赤峰新闻综合.png" group-title="本地频道",赤峰新闻综合
 udp://239.125.2.156:4145
-#EXTINF:0 CUID="190" tvg-name="鄂尔多斯蒙语频道" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯蒙语.png" group-title="本地频道",鄂尔多斯蒙语频道
-udp://239.125.2.162:4151
-#EXTINF:0 CUID="191" tvg-name="鄂尔多斯城市生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯城市生活.png" group-title="本地频道",鄂尔多斯城市生活
-udp://239.125.2.163:4152
-#EXTINF:0 CUID="192" tvg-name="鄂尔多斯经济服务" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯经济服务.png" group-title="本地频道",鄂尔多斯经济服务
-udp://239.125.2.164:4153
 #EXTINF:0 CUID="193" tvg-name="鄂尔多斯新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯新闻综合.png" group-title="本地频道",鄂尔多斯新闻综合
 udp://239.125.2.165:4154
+#EXTINF:0 CUID="192" tvg-name="鄂尔多斯经济服务" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯经济服务.png" group-title="本地频道",鄂尔多斯经济服务
+udp://239.125.2.164:4153
+#EXTINF:0 CUID="190" tvg-name="鄂尔多斯蒙语频道" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古鄂尔多斯蒙语.png" group-title="本地频道",鄂尔多斯蒙语频道
+udp://239.125.2.162:4151
 #EXTINF:0 CUID="194" tvg-name="乌海都市生活" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古乌海都市生活.png" group-title="本地频道",乌海都市生活
 udp://239.125.2.166:4155
 #EXTINF:0 CUID="195" tvg-name="乌海新闻综合" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古乌海新闻综合.png" group-title="本地频道",乌海新闻综合

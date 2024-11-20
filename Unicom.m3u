@@ -37,6 +37,8 @@ udp://234.1.3.234:5000
 udp://239.125.1.57:5000
 #EXTINF:0 CUID="147" tvg-name="CCTV4K" tvg-ID="CCTV4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/CCTV4K.png" group-title="央视频道",CCTV4K
 udp://239.125.1.214:4120
+#EXTINF:0 CUID="147" tvg-name="华数4K" tvg-ID="华数4K" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/华数.png" group-title="央视频道",CCTV4K
+udp://239.125.1.24:5000
 #EXTINF:0 CUID="171" tvg-name="内蒙古卫视" tvg-ID="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 udp://239.125.1.59:5000
 #EXTINF:0 CUID="148" tvg-name="湖南卫视" tvg-ID="湖南卫视" tvg-logo="https://raw.githubusercontent.com/Jennie567/icon/main/TV/湖南卫视.png" group-title="卫视频道",湖南卫视
